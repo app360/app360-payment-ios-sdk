@@ -1,0 +1,3 @@
+[submodule "Vendors"]
+	path = Vendors
+	url = https://tuantm2014@github.com/app360/app360-ios-sdk
