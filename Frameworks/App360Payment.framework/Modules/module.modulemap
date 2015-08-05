@@ -1,0 +1,6 @@
+framework module App360Payment {
+  umbrella header "App360Payment.h"
+
+  export *
+  module * { export * }
+}
