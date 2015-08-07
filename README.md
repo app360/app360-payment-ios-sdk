@@ -29,7 +29,7 @@ App360 Payment SDK use appscoped-id session of App360SDK to make payment. So, yo
 Firstly, clone or download this repository to your machine.
 
 - `git clone https://github.com/app360/app360-payment-ios-sdk.git`
-- Or, download from https://github.com/app360/app360-ios-sdk/releases
+- Or, download from https://github.com/app360/app360-payment-ios-sdk/releases
 
 Open AppDelegate.m inside demo project, find `initializeWithApplicationId` line and replace the placeholders with your application credentials.
 
